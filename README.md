@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bandarAlrooqi
 - 👀 I’m interested in Java,AI,C#
-- 🌱 I’m currently learning ML, NLP
+- 🌱 I’m currently learning ML, NLP,Physics and Statistics
 - 📫 officialAlrooqi@gmail.com
 
 <!---
