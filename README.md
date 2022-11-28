@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bandarAlrooqi
-- 👀 I’m interested in NLP, Game development and algorathims 
-- 🌱 I’m currently learning Java microservrs, NLP,Physics and Statistics
+- 👀 I’m interested in NLP, Software development and algorathims 
+- 🌱 I’m currently learning Java microservrs, NLP, Django, ML, DL, Physics and Statistics
 - 📫 officialAlrooqi@gmail.com
 
 <!---
