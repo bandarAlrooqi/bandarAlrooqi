@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandarAlrooqi
-- 🍝 I like to cook spaghetti!
+- 🍝 I enjoy making spaghetti
 
 <!---
 bandarAlrooqi/bandarAlrooqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
